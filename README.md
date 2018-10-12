@@ -1,2 +1,2 @@
 # tictactoe
-TicTacToe in Haskell
+TicTacToe in Haskell.
