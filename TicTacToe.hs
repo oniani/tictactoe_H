@@ -1,5 +1,18 @@
--- This is a simple TicTacToe game which can be played against a computer
--- It is licensed under MIT so feel free to redesign/reuse the code
+{- |
+Module      :  TicTacToe.hs
+Description :  Module implements a simple TicTacToe game which can be played against a computer.
+Copyright   :  (c) David Oniani
+License     :  GNU General Public License v3.0
+
+Maintainer  :  onianidavid@gmail.com
+Stability   :  provisional
+Portability :  portable
+
+For more information, follow the link below.
+https://en.wikipedia.org/wiki/Tic-tac-toe
+-}
+
+module TicTacToe where
 
 
 -- Initialize an empty board
